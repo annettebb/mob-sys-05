@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Будник Анна, Лабораторная 5</string>
+
+    <string name="fragment_add_title">Добавить заметку</string>
+    <string name="fragment_add_hint">Заметка</string>
+    <string name="fragment_add_btn">Добавить</string>
+    <string name="fragment_show_noitems">Нет заметок</string>
+
+    <string name="fragment_del_title">Удалить заметку</string>
+    <string name="fragment_del_hint">ID Заметки</string>
+    <string name="fragment_del_btn">Удалить</string>
+
+    <string name="fragment_upd_title">Обновить заметку</string>
+    <string name="fragment_upd_hint_id">ID Заметки</string>
+    <string name="fragment_upd_hint_description">Новая заметка</string>
+    <string name="fragment_upd_btn">Обновить</string>
+
+    <string name="fragment_show_counter">Заметок</string>
+    <string name="fragment_show_reload">Перезагрузить</string>
+
+    <string name="field_error">Заполните все поля</string>
+
+    <string name="author">Будник Анна Андреевна</string>
+    <string name="authorTitle">Разработала</string>
+    <string name="authorBtn">Разработчик</string>
+</resources>
